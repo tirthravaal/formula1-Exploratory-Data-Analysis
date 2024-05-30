@@ -1,0 +1,389 @@
+Track,Position,No,Driver,Team,Starting Grid,Laps,Time/Retired,Points,Set Fastest Lap,Fastest Lap Time
+Bahrain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,57,33:56.7,25,No,01:36.2
+Bahrain,2,11,Sergio Perez,Red Bull Racing Honda RBPT,2,57,11.987,18,No,01:36.3
+Bahrain,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,5,57,38.637,15,No,01:36.2
+Bahrain,4,55,Carlos Sainz,Ferrari,4,57,48.052,12,No,01:37.1
+Bahrain,5,44,Lewis Hamilton,Mercedes,7,57,50.977,10,No,01:36.5
+Bahrain,6,18,Lance Stroll,Aston Martin Aramco Mercedes,8,57,54.502,8,No,01:36.5
+Bahrain,7,63,George Russell,Mercedes,6,57,55.873,6,No,01:37.2
+Bahrain,8,77,Valtteri Bottas,Alfa Romeo Ferrari,12,57,72.647,4,No,01:37.4
+Bahrain,9,10,Pierre Gasly,Alpine Renault,20,57,73.753,2,No,01:35.1
+Bahrain,10,23,Alexander Albon,Williams Mercedes,15,57,89.774,1,No,01:37.1
+Bahrain,11,22,Yuki Tsunoda,AlphaTauri Honda RBPT,14,57,90.87,0,No,01:36.6
+Bahrain,12,2,Logan Sargeant,Williams Mercedes,16,56,+1 lap,0,No,01:36.0
+Bahrain,13,20,Kevin Magnussen,Haas Ferrari,17,56,+1 lap,0,No,01:36.5
+Bahrain,14,21,Nyck De Vries,AlphaTauri Honda RBPT,19,56,+1 lap,0,No,01:37.7
+Bahrain,15,27,Nico Hulkenberg,Haas Ferrari,10,56,+1 lap,0,No,01:36.6
+Bahrain,16,24,Guanyu Zhou,Alfa Romeo Ferrari,13,56,+1 lap,0,Yes,01:34.0
+Bahrain,17,4,Lando Norris,McLaren Mercedes,11,55,+2 laps,0,No,01:35.8
+Saudi Arabia,1,11,Sergio Perez,Red Bull Racing Honda RBPT,1,50,21:14.9,25,No,01:32.2
+Saudi Arabia,2,1,Max Verstappen,Red Bull Racing Honda RBPT,15,50,5.335,19,Yes,01:31.9
+Saudi Arabia,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,2,50,20.728,15,No,01:32.2
+Saudi Arabia,4,63,George Russell,Mercedes,3,50,25.866,12,No,01:32.4
+Saudi Arabia,5,44,Lewis Hamilton,Mercedes,7,50,31.065,10,No,01:32.9
+Saudi Arabia,6,55,Carlos Sainz,Ferrari,4,50,35.876,8,No,01:32.8
+Saudi Arabia,7,16,Charles Leclerc,Ferrari,12,50,43.162,6,No,01:33.1
+Saudi Arabia,8,31,Esteban Ocon,Alpine Renault,6,50,52.832,4,No,01:33.2
+Saudi Arabia,9,10,Pierre Gasly,Alpine Renault,9,50,54.747,2,No,01:33.4
+Saudi Arabia,10,20,Kevin Magnussen,Haas Ferrari,13,50,64.826,1,No,01:33.4
+Saudi Arabia,11,22,Yuki Tsunoda,AlphaTauri Honda RBPT,16,50,67.494,0,No,01:33.9
+Saudi Arabia,12,27,Nico Hulkenberg,Haas Ferrari,10,50,70.588,0,No,01:33.8
+Saudi Arabia,13,24,Guanyu Zhou,Alfa Romeo Ferrari,11,50,76.06,0,No,01:33.9
+Saudi Arabia,14,21,Nyck De Vries,AlphaTauri Honda RBPT,18,50,77.478,0,No,01:33.6
+Saudi Arabia,15,81,Oscar Piastri,McLaren Mercedes,8,50,85.021,0,No,01:34.3
+Saudi Arabia,16,2,Logan Sargeant,Williams Mercedes,20,50,86.293,0,No,01:34.5
+Saudi Arabia,17,4,Lando Norris,McLaren Mercedes,19,50,86.445,0,No,01:34.1
+Saudi Arabia,18,77,Valtteri Bottas,Alfa Romeo Ferrari,14,49,+1 lap,0,No,01:34.4
+Australia,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,58,32:28.4,25,No,01:20.3
+Australia,2,44,Lewis Hamilton,Mercedes,3,58,0.179,18,No,01:20.6
+Australia,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,4,58,0.769,15,No,01:20.5
+Australia,4,18,Lance Stroll,Aston Martin Aramco Mercedes,6,58,3.082,12,No,01:20.9
+Australia,5,11,Sergio Perez,Red Bull Racing Honda RBPT,20,58,3.32,11,Yes,01:20.2
+Australia,6,4,Lando Norris,McLaren Mercedes,13,58,3.701,8,No,01:21.2
+Australia,7,27,Nico Hulkenberg,Haas Ferrari,10,58,4.939,6,No,01:21.1
+Australia,8,81,Oscar Piastri,McLaren Mercedes,16,58,5.382,4,No,01:21.3
+Australia,9,24,Guanyu Zhou,Alfa Romeo Ferrari,17,58,5.713,2,No,01:21.8
+Australia,10,22,Yuki Tsunoda,AlphaTauri Honda RBPT,12,58,6.052,1,No,01:21.8
+Australia,11,77,Valtteri Bottas,Alfa Romeo Ferrari,19,58,6.513,0,No,01:22.2
+Australia,12,55,Carlos Sainz,Ferrari,5,58,6.594,0,No,01:20.5
+Australia,13,10,Pierre Gasly,Alpine Renault,9,56,DNF,0,No,01:21.0
+Australia,14,31,Esteban Ocon,Alpine Renault,11,56,DNF,0,No,01:21.2
+Australia,15,21,Nyck De Vries,AlphaTauri Honda RBPT,15,56,DNF,0,No,01:21.2
+Australia,16,2,Logan Sargeant,Williams Mercedes,18,56,DNF,0,No,01:21.5
+Australia,17,20,Kevin Magnussen,Haas Ferrari,14,52,DNF,0,No,01:21.7
+Azerbaijan,1,11,Sergio Perez,Red Bull Racing Honda RBPT,3,51,32:42.4,25,No,01:44.6
+Azerbaijan,2,1,Max Verstappen,Red Bull Racing Honda RBPT,2,51,2.137,18,No,01:44.2
+Azerbaijan,3,16,Charles Leclerc,Ferrari,1,51,21.217,15,No,01:44.6
+Azerbaijan,4,14,Fernando Alonso,Aston Martin Aramco Mercedes,6,51,22.024,12,No,01:44.2
+Azerbaijan,5,55,Carlos Sainz,Ferrari,4,51,45.491,10,No,01:45.2
+Azerbaijan,6,44,Lewis Hamilton,Mercedes,5,51,46.145,8,No,01:45.3
+Azerbaijan,7,18,Lance Stroll,Aston Martin Aramco Mercedes,9,51,51.617,6,No,01:45.6
+Azerbaijan,8,63,George Russell,Mercedes,11,51,74.24,5,Yes,01:43.4
+Azerbaijan,9,4,Lando Norris,McLaren Mercedes,7,51,80.376,2,No,01:45.7
+Azerbaijan,10,22,Yuki Tsunoda,AlphaTauri Honda RBPT,8,51,83.862,1,No,01:45.7
+Azerbaijan,11,81,Oscar Piastri,McLaren Mercedes,10,51,86.501,0,No,01:45.6
+Azerbaijan,12,23,Alexander Albon,Williams Mercedes,12,51,88.623,0,No,01:45.9
+Azerbaijan,13,20,Kevin Magnussen,Haas Ferrari,16,51,89.729,0,No,01:45.9
+Azerbaijan,14,10,Pierre Gasly,Alpine Renault,17,51,91.332,0,No,01:45.5
+Azerbaijan,15,31,Esteban Ocon,Alpine Renault,19,51,97.794,0,No,01:45.9
+Azerbaijan,16,2,Logan Sargeant,Williams Mercedes,14,51,100.943,0,No,01:46.5
+Azerbaijan,17,27,Nico Hulkenberg,Haas Ferrari,20,50,+1 lap,0,No,01:46.7
+Azerbaijan,18,77,Valtteri Bottas,Alfa Romeo Ferrari,13,50,+1 lap,0,No,01:46.3
+Miami,1,1,Max Verstappen,Red Bull Racing Honda RBPT,9,57,27:38.2,26,Yes,01:29.7
+Miami,2,11,Sergio Perez,Red Bull Racing Honda RBPT,1,57,5.384,18,No,01:30.6
+Miami,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,2,57,26.305,15,No,01:30.5
+Miami,4,63,George Russell,Mercedes,6,57,33.229,12,No,01:31.0
+Miami,5,55,Carlos Sainz,Ferrari,3,57,42.511,10,No,01:31.4
+Miami,6,44,Lewis Hamilton,Mercedes,13,57,51.249,8,No,01:30.7
+Miami,7,16,Charles Leclerc,Ferrari,7,57,52.988,6,No,01:31.4
+Miami,8,10,Pierre Gasly,Alpine Renault,5,57,55.67,4,No,01:32.0
+Miami,9,31,Esteban Ocon,Alpine Renault,8,57,58.123,2,No,01:31.1
+Miami,10,20,Kevin Magnussen,Haas Ferrari,4,57,62.945,1,No,01:31.7
+Miami,11,22,Yuki Tsunoda,AlphaTauri Honda RBPT,17,57,64.309,0,No,01:31.0
+Miami,12,18,Lance Stroll,Aston Martin Aramco Mercedes,18,57,64.754,0,No,01:30.9
+Miami,13,77,Valtteri Bottas,Alfa Romeo Ferrari,10,57,71.637,0,No,01:31.8
+Miami,14,23,Alexander Albon,Williams Mercedes,11,57,72.861,0,No,01:31.9
+Miami,15,27,Nico Hulkenberg,Haas Ferrari,12,57,74.95,0,No,01:30.9
+Miami,16,24,Guanyu Zhou,Alfa Romeo Ferrari,14,57,78.44,0,No,01:31.7
+Miami,17,4,Lando Norris,McLaren Mercedes,16,57,87.717,0,No,01:32.4
+Miami,18,21,Nyck De Vries,AlphaTauri Honda RBPT,15,57,88.949,0,No,01:31.6
+Miami,19,81,Oscar Piastri,McLaren Mercedes,19,56,+1 lap,0,No,01:32.0
+Miami,20,2,Logan Sargeant,Williams Mercedes,20,56,+1 lap,0,No,01:32.4
+Monaco,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,78,48:52.0,25,No,01:16.6
+Monaco,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,2,78,27.921,18,No,01:16.7
+Monaco,3,31,Esteban Ocon,Alpine Renault,3,78,36.99,15,No,01:16.5
+Monaco,4,44,Lewis Hamilton,Mercedes,5,78,39.062,13,Yes,01:15.7
+Monaco,5,63,George Russell,Mercedes,8,78,56.284,10,No,01:16.8
+Monaco,6,16,Charles Leclerc,Ferrari,6,78,61.89,8,No,01:15.8
+Monaco,7,10,Pierre Gasly,Alpine Renault,7,78,62.362,6,No,01:15.8
+Monaco,8,55,Carlos Sainz,Ferrari,4,78,63.391,4,No,01:16.4
+Monaco,9,4,Lando Norris,McLaren Mercedes,10,77,+1 lap,2,No,01:17.8
+Monaco,10,81,Oscar Piastri,McLaren Mercedes,11,77,+1 lap,1,No,01:17.5
+Monaco,11,77,Valtteri Bottas,Alfa Romeo Ferrari,15,77,+1 lap,0,No,01:17.8
+Monaco,12,21,Nyck De Vries,AlphaTauri Honda RBPT,12,77,+1 lap,0,No,01:17.6
+Monaco,13,24,Guanyu Zhou,Alfa Romeo Ferrari,19,77,+1 lap,0,No,01:16.9
+Monaco,14,23,Alexander Albon,Williams Mercedes,13,77,+1 lap,0,No,01:16.7
+Monaco,15,22,Yuki Tsunoda,AlphaTauri Honda RBPT,9,76,+2 laps,0,No,01:17.7
+Monaco,16,11,Sergio Perez,Red Bull Racing Honda RBPT,20,76,+2 laps,0,No,01:16.3
+Monaco,17,27,Nico Hulkenberg,Haas Ferrari,18,76,+2 laps,0,No,01:17.0
+Monaco,18,2,Logan Sargeant,Williams Mercedes,16,76,+2 laps,0,No,01:17.3
+Monaco,19,20,Kevin Magnussen,Haas Ferrari,17,70,DNF,0,No,01:18.4
+Spain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,66,27:57.9,26,Yes,01:16.3
+Spain,2,44,Lewis Hamilton,Mercedes,4,66,24.09,18,No,01:16.7
+Spain,3,63,George Russell,Mercedes,12,66,32.389,15,No,01:17.9
+Spain,4,11,Sergio Perez,Red Bull Racing Honda RBPT,11,66,35.812,12,No,01:16.7
+Spain,5,55,Carlos Sainz,Ferrari,2,66,45.698,10,No,01:18.4
+Spain,6,18,Lance Stroll,Aston Martin Aramco Mercedes,5,66,63.32,8,No,01:18.7
+Spain,7,14,Fernando Alonso,Aston Martin Aramco Mercedes,8,66,64.127,6,No,01:18.1
+Spain,8,31,Esteban Ocon,Alpine Renault,6,66,69.242,4,No,01:18.9
+Spain,9,24,Guanyu Zhou,Alfa Romeo Ferrari,13,66,71.878,2,No,01:18.8
+Spain,10,10,Pierre Gasly,Alpine Renault,10,66,73.53,1,No,01:18.4
+Spain,11,16,Charles Leclerc,Ferrari,19,66,74.419,0,No,01:18.4
+Spain,12,22,Yuki Tsunoda,AlphaTauri Honda RBPT,15,66,75.416,0,No,01:18.9
+Spain,13,81,Oscar Piastri,McLaren Mercedes,9,65,+1 lap,0,No,01:18.7
+Spain,14,21,Nyck De Vries,AlphaTauri Honda RBPT,14,65,+1 lap,0,No,01:18.6
+Spain,15,27,Nico Hulkenberg,Haas Ferrari,7,65,+1 lap,0,No,01:18.8
+Spain,16,23,Alexander Albon,Williams Mercedes,18,65,+1 lap,0,No,01:19.1
+Spain,17,4,Lando Norris,McLaren Mercedes,3,65,+1 lap,0,No,01:17.2
+Spain,18,20,Kevin Magnussen,Haas Ferrari,17,65,+1 lap,0,No,01:18.1
+Spain,19,77,Valtteri Bottas,Alfa Romeo Ferrari,16,65,+1 lap,0,No,01:18.2
+Spain,20,2,Logan Sargeant,Williams Mercedes,20,65,+1 lap,0,No,01:19.2
+Canada,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,70,33:58.3,25,No,01:15.6
+Canada,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,2,70,9.57,18,No,01:15.8
+Canada,3,44,Lewis Hamilton,Mercedes,3,70,14.168,15,No,01:15.4
+Canada,4,16,Charles Leclerc,Ferrari,10,70,18.648,12,No,01:15.9
+Canada,5,55,Carlos Sainz,Ferrari,11,70,21.54,10,No,01:15.9
+Canada,6,11,Sergio Perez,Red Bull Racing Honda RBPT,12,70,51.028,9,Yes,01:14.5
+Canada,7,23,Alexander Albon,Williams Mercedes,9,70,60.813,6,No,01:16.9
+Canada,8,31,Esteban Ocon,Alpine Renault,6,70,61.692,4,No,01:16.8
+Canada,9,18,Lance Stroll,Aston Martin Aramco Mercedes,16,70,64.402,2,No,01:16.6
+Canada,10,77,Valtteri Bottas,Alfa Romeo Ferrari,14,70,64.432,1,No,01:16.6
+Canada,11,81,Oscar Piastri,McLaren Mercedes,8,70,65.101,0,No,01:16.6
+Canada,12,10,Pierre Gasly,Alpine Renault,15,70,65.249,0,No,01:16.4
+Canada,13,4,Lando Norris,McLaren Mercedes,7,70,68.363,0,No,01:16.4
+Canada,14,22,Yuki Tsunoda,AlphaTauri Honda RBPT,19,70,73.423,0,No,01:16.7
+Canada,15,27,Nico Hulkenberg,Haas Ferrari,5,69,+1 lap,0,No,01:17.2
+Canada,16,24,Guanyu Zhou,Alfa Romeo Ferrari,20,69,+1 lap,0,No,01:17.1
+Canada,17,20,Kevin Magnussen,Haas Ferrari,13,69,+1 lap,0,No,01:16.1
+Canada,18,21,Nyck De Vries,AlphaTauri Honda RBPT,17,69,+1 lap,0,No,01:16.7
+Austria,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,71,25:33.6,26,Yes,01:07.0
+Austria,2,16,Charles Leclerc,Ferrari,2,71,5.155,18,No,01:08.8
+Austria,3,11,Sergio Perez,Red Bull Racing Honda RBPT,15,71,17.188,15,No,01:08.1
+Austria,4,4,Lando Norris,McLaren Mercedes,4,71,26.327,12,No,01:08.7
+Austria,5,14,Fernando Alonso,Aston Martin Aramco Mercedes,7,71,30.317,10,No,01:09.1
+Austria,6,55,Carlos Sainz,Ferrari,3,71,31.377,8,No,01:08.9
+Austria,7,63,George Russell,Mercedes,11,71,48.403,6,No,01:09.3
+Austria,8,44,Lewis Hamilton,Mercedes,5,71,49.196,4,No,01:09.2
+Austria,9,18,Lance Stroll,Aston Martin Aramco Mercedes,6,71,59.043,2,No,01:08.5
+Austria,10,10,Pierre Gasly,Alpine Renault,9,71,67.667,1,No,01:09.0
+Austria,11,23,Alexander Albon,Williams Mercedes,10,71,79.767,0,No,01:09.6
+Austria,12,24,Guanyu Zhou,Alfa Romeo Ferrari,17,70,+1 lap,0,No,01:09.8
+Austria,13,2,Logan Sargeant,Williams Mercedes,18,70,+1 lap,0,No,01:09.6
+Austria,14,31,Esteban Ocon,Alpine Renault,12,70,+1 lap,0,No,01:09.8
+Austria,15,77,Valtteri Bottas,Alfa Romeo Ferrari,14,70,+1 lap,0,No,01:09.9
+Austria,16,81,Oscar Piastri,McLaren Mercedes,13,70,+1 lap,0,No,01:09.9
+Austria,17,21,Nyck De Vries,AlphaTauri Honda RBPT,20,70,+1 lap,0,No,01:09.9
+Austria,18,20,Kevin Magnussen,Haas Ferrari,19,70,+1 lap,0,No,01:10.2
+Austria,19,22,Yuki Tsunoda,AlphaTauri Honda RBPT,16,70,+1 lap,0,No,01:09.6
+Great Britain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,52,25:16.9,26,Yes,01:30.3
+Great Britain,2,4,Lando Norris,McLaren Mercedes,2,52,3.798,18,No,01:30.5
+Great Britain,3,44,Lewis Hamilton,Mercedes,7,52,6.783,15,No,01:30.5
+Great Britain,4,81,Oscar Piastri,McLaren Mercedes,3,52,7.776,12,No,01:30.9
+Great Britain,5,63,George Russell,Mercedes,6,52,11.206,10,No,01:31.1
+Great Britain,6,11,Sergio Perez,Red Bull Racing Honda RBPT,15,52,12.882,8,No,01:30.9
+Great Britain,7,14,Fernando Alonso,Aston Martin Aramco Mercedes,9,52,17.193,6,No,01:31.3
+Great Britain,8,23,Alexander Albon,Williams Mercedes,8,52,17.878,4,No,01:31.3
+Great Britain,9,16,Charles Leclerc,Ferrari,4,52,18.689,2,No,01:31.3
+Great Britain,10,55,Carlos Sainz,Ferrari,5,52,19.448,1,No,01:31.4
+Great Britain,11,2,Logan Sargeant,Williams Mercedes,14,52,23.632,0,No,01:31.7
+Great Britain,12,77,Valtteri Bottas,Alfa Romeo Ferrari,20,52,25.83,0,No,01:31.9
+Great Britain,13,27,Nico Hulkenberg,Haas Ferrari,11,52,26.663,0,No,01:31.8
+Great Britain,14,18,Lance Stroll,Aston Martin Aramco Mercedes,12,52,27.483,0,No,01:31.5
+Great Britain,15,24,Guanyu Zhou,Alfa Romeo Ferrari,17,52,29.82,0,No,01:31.8
+Great Britain,16,22,Yuki Tsunoda,AlphaTauri Honda RBPT,16,52,31.225,0,No,01:32.1
+Great Britain,17,21,Nyck De Vries,AlphaTauri Honda RBPT,18,52,33.128,0,No,01:32.4
+Great Britain,18,10,Pierre Gasly,Alpine Renault,10,46,DNF,0,No,01:31.5
+Hungary,1,1,Max Verstappen,Red Bull Racing Honda RBPT,2,70,38:08.6,26,Yes,01:20.5
+Hungary,2,4,Lando Norris,McLaren Mercedes,3,70,33.731,18,No,01:22.2
+Hungary,3,11,Sergio Perez,Red Bull Racing Honda RBPT,9,70,37.603,15,No,01:22.3
+Hungary,4,44,Lewis Hamilton,Mercedes,1,70,39.134,12,No,01:21.6
+Hungary,5,81,Oscar Piastri,McLaren Mercedes,4,70,62.572,10,No,01:22.7
+Hungary,6,63,George Russell,Mercedes,18,70,65.825,8,No,01:22.2
+Hungary,7,16,Charles Leclerc,Ferrari,6,70,70.317,6,No,01:22.5
+Hungary,8,55,Carlos Sainz,Ferrari,11,70,71.073,4,No,01:22.6
+Hungary,9,14,Fernando Alonso,Aston Martin Aramco Mercedes,8,70,75.709,2,No,01:22.7
+Hungary,10,18,Lance Stroll,Aston Martin Aramco Mercedes,14,69,+1 lap,1,No,01:23.4
+Hungary,11,23,Alexander Albon,Williams Mercedes,16,69,+1 lap,0,No,01:24.1
+Hungary,12,77,Valtteri Bottas,Alfa Romeo Ferrari,7,69,+1 lap,0,No,01:23.7
+Hungary,13,3,Daniel Ricciardo,AlphaTauri Honda RBPT,13,69,+1 lap,0,No,01:23.9
+Hungary,14,27,Nico Hulkenberg,Haas Ferrari,10,69,+1 lap,0,No,01:23.6
+Hungary,15,22,Yuki Tsunoda,AlphaTauri Honda RBPT,17,69,+1 lap,0,No,01:23.3
+Hungary,16,24,Guanyu Zhou,Alfa Romeo Ferrari,5,69,+1 lap,0,No,01:23.7
+Hungary,17,20,Kevin Magnussen,Haas Ferrari,19,69,+1 lap,0,No,01:23.9
+Hungary,18,2,Logan Sargeant,Williams Mercedes,20,67,DNF,0,No,01:23.5
+Belgium,1,1,Max Verstappen,Red Bull Racing Honda RBPT,6,44,22:30.4,25,No,01:48.9
+Belgium,2,11,Sergio Perez,Red Bull Racing Honda RBPT,2,44,22.305,18,No,01:50.3
+Belgium,3,16,Charles Leclerc,Ferrari,1,44,32.259,15,No,01:50.4
+Belgium,4,44,Lewis Hamilton,Mercedes,3,44,49.671,13,Yes,01:47.3
+Belgium,5,14,Fernando Alonso,Aston Martin Aramco Mercedes,9,44,56.184,10,No,01:50.9
+Belgium,6,63,George Russell,Mercedes,8,44,63.101,8,No,01:50.6
+Belgium,7,4,Lando Norris,McLaren Mercedes,7,44,73.719,6,No,01:51.7
+Belgium,8,31,Esteban Ocon,Alpine Renault,14,44,74.719,4,No,01:50.4
+Belgium,9,18,Lance Stroll,Aston Martin Aramco Mercedes,10,44,79.34,2,No,01:51.3
+Belgium,10,22,Yuki Tsunoda,AlphaTauri Honda RBPT,11,44,80.221,1,No,01:51.4
+Belgium,11,10,Pierre Gasly,Alpine Renault,12,44,83.084,0,No,01:50.9
+Belgium,12,77,Valtteri Bottas,Alfa Romeo Ferrari,13,44,85.191,0,No,01:50.5
+Belgium,13,24,Guanyu Zhou,Alfa Romeo Ferrari,17,44,95.441,0,No,01:50.2
+Belgium,14,23,Alexander Albon,Williams Mercedes,15,44,96.184,0,No,01:49.8
+Belgium,15,20,Kevin Magnussen,Haas Ferrari,16,44,101.754,0,No,01:51.0
+Belgium,16,3,Daniel Ricciardo,AlphaTauri Honda RBPT,19,44,103.071,0,No,01:51.0
+Belgium,17,2,Logan Sargeant,Williams Mercedes,18,44,104.476,0,No,01:50.5
+Belgium,18,27,Nico Hulkenberg,Haas Ferrari,20,44,110.45,0,No,01:49.9
+Netherlands,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,72,24:04.4,25,No,01:13.9
+Netherlands,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,5,72,3.744,19,Yes,01:13.8
+Netherlands,3,10,Pierre Gasly,Alpine Renault,12,72,7.058,15,No,01:14.4
+Netherlands,4,11,Sergio Perez,Red Bull Racing Honda RBPT,7,72,10.068,12,No,01:14.2
+Netherlands,5,55,Carlos Sainz,Ferrari,6,72,12.541,10,No,01:14.9
+Netherlands,6,44,Lewis Hamilton,Mercedes,13,72,13.209,8,No,01:13.9
+Netherlands,7,4,Lando Norris,McLaren Mercedes,2,72,13.232,6,No,01:14.4
+Netherlands,8,23,Alexander Albon,Williams Mercedes,4,72,15.155,4,No,01:14.5
+Netherlands,9,81,Oscar Piastri,McLaren Mercedes,8,72,16.58,2,No,01:14.3
+Netherlands,10,31,Esteban Ocon,Alpine Renault,16,72,18.346,1,No,01:14.6
+Netherlands,11,18,Lance Stroll,Aston Martin Aramco Mercedes,11,72,20.087,0,No,01:15.2
+Netherlands,12,27,Nico Hulkenberg,Haas Ferrari,14,72,20.84,0,No,01:14.5
+Netherlands,13,40,Liam Lawson,AlphaTauri Honda RBPT,19,72,26.147,0,No,01:14.8
+Netherlands,14,77,Valtteri Bottas,Alfa Romeo Ferrari,18,72,27.388,0,No,01:14.7
+Netherlands,15,22,Yuki Tsunoda,AlphaTauri Honda RBPT,17,72,29.893,0,No,01:16.3
+Netherlands,16,20,Kevin Magnussen,Haas Ferrari,20,72,31.41,0,No,01:15.5
+Netherlands,17,63,George Russell,Mercedes,3,72,55.754,0,No,01:15.1
+Italy,1,1,Max Verstappen,Red Bull Racing Honda RBPT,2,51,13:41.1,25,No,01:25.2
+Italy,2,11,Sergio Perez,Red Bull Racing Honda RBPT,5,51,6.064,18,No,01:25.5
+Italy,3,55,Carlos Sainz,Ferrari,1,51,11.193,15,No,01:25.5
+Italy,4,16,Charles Leclerc,Ferrari,3,51,11.377,12,No,01:25.6
+Italy,5,63,George Russell,Mercedes,4,51,23.028,10,No,01:25.8
+Italy,6,44,Lewis Hamilton,Mercedes,8,51,42.679,8,No,01:25.6
+Italy,7,23,Alexander Albon,Williams Mercedes,6,51,45.106,6,No,01:26.4
+Italy,8,4,Lando Norris,McLaren Mercedes,9,51,45.449,4,No,01:26.1
+Italy,9,14,Fernando Alonso,Aston Martin Aramco Mercedes,10,51,46.294,2,No,01:26.1
+Italy,10,77,Valtteri Bottas,Alfa Romeo Ferrari,14,51,64.056,1,No,01:26.0
+Italy,11,40,Liam Lawson,AlphaTauri Honda RBPT,12,51,70.638,0,No,01:25.8
+Italy,12,81,Oscar Piastri,McLaren Mercedes,7,51,73.074,0,Yes,01:25.1
+Italy,13,2,Logan Sargeant,Williams Mercedes,15,51,78.557,0,No,01:26.8
+Italy,14,24,Guanyu Zhou,Alfa Romeo Ferrari,16,51,80.164,0,No,01:26.0
+Italy,15,10,Pierre Gasly,Alpine Renault,17,51,82.51,0,No,01:25.8
+Italy,16,18,Lance Stroll,Aston Martin Aramco Mercedes,20,51,87.266,0,No,01:26.6
+Italy,17,27,Nico Hulkenberg,Haas Ferrari,13,50,+1 lap,0,No,01:25.9
+Italy,18,20,Kevin Magnussen,Haas Ferrari,19,50,+1 lap,0,No,01:26.3
+Singapore,1,55,Carlos Sainz,Ferrari,1,62,46:37.4,25,No,01:37.7
+Singapore,2,4,Lando Norris,McLaren Mercedes,4,62,0.812,18,No,01:38.0
+Singapore,3,44,Lewis Hamilton,Mercedes,5,62,1.269,16,Yes,01:35.9
+Singapore,4,16,Charles Leclerc,Ferrari,3,62,21.177,12,No,01:38.3
+Singapore,5,1,Max Verstappen,Red Bull Racing Honda RBPT,11,62,21.441,10,No,01:36.6
+Singapore,6,10,Pierre Gasly,Alpine Renault,12,62,38.441,8,No,01:38.3
+Singapore,7,81,Oscar Piastri,McLaren Mercedes,17,62,41.479,6,No,01:38.5
+Singapore,8,11,Sergio Perez,Red Bull Racing Honda RBPT,13,62,54.534,4,No,01:37.1
+Singapore,9,40,Liam Lawson,AlphaTauri Honda RBPT,10,62,65.918,2,No,01:39.0
+Singapore,10,20,Kevin Magnussen,Haas Ferrari,6,62,72.116,1,No,01:38.1
+Singapore,11,23,Alexander Albon,Williams Mercedes,14,62,73.417,0,No,01:37.3
+Singapore,12,24,Guanyu Zhou,Alfa Romeo Ferrari,19,62,83.649,0,No,01:39.3
+Singapore,13,27,Nico Hulkenberg,Haas Ferrari,9,62,85.201,0,No,01:39.9
+Singapore,14,2,Logan Sargeant,Williams Mercedes,18,62,86.889,0,No,01:38.5
+Singapore,15,14,Fernando Alonso,Aston Martin Aramco Mercedes,7,62,87.603,0,No,01:36.5
+Singapore,16,63,George Russell,Mercedes,2,61,DNF,0,No,01:36.3
+Japan,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,53,30:58.4,26,Yes,01:34.2
+Japan,2,4,Lando Norris,McLaren Mercedes,3,53,19.387,18,No,01:35.2
+Japan,3,81,Oscar Piastri,McLaren Mercedes,2,53,36.494,15,No,01:36.3
+Japan,4,16,Charles Leclerc,Ferrari,4,53,43.998,12,No,01:36.4
+Japan,5,44,Lewis Hamilton,Mercedes,7,53,49.376,10,No,01:35.6
+Japan,6,55,Carlos Sainz,Ferrari,6,53,50.221,8,No,01:36.2
+Japan,7,63,George Russell,Mercedes,8,53,57.659,6,No,01:37.7
+Japan,8,14,Fernando Alonso,Aston Martin Aramco Mercedes,10,53,74.725,4,No,01:37.2
+Japan,9,31,Esteban Ocon,Alpine Renault,14,53,79.678,2,No,01:37.4
+Japan,10,10,Pierre Gasly,Alpine Renault,12,53,83.155,1,No,01:36.4
+Japan,11,40,Liam Lawson,AlphaTauri Honda RBPT,11,52,+1 lap,0,No,01:38.3
+Japan,12,22,Yuki Tsunoda,AlphaTauri Honda RBPT,9,52,+1 lap,0,No,01:37.8
+Japan,13,24,Guanyu Zhou,Alfa Romeo Ferrari,19,52,+1 lap,0,No,01:37.8
+Japan,14,27,Nico Hulkenberg,Haas Ferrari,18,52,+1 lap,0,No,01:37.3
+Japan,15,20,Kevin Magnussen,Haas Ferrari,15,52,+1 lap,0,No,01:37.8
+Qatar,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,57,27:39.2,26,Yes,01:24.3
+Qatar,2,81,Oscar Piastri,McLaren Mercedes,6,57,4.833,18,No,01:24.9
+Qatar,3,4,Lando Norris,McLaren Mercedes,10,57,5.969,15,No,01:24.8
+Qatar,4,63,George Russell,Mercedes,2,57,34.119,12,No,01:25.8
+Qatar,5,16,Charles Leclerc,Ferrari,5,57,38.976,10,No,01:25.0
+Qatar,6,14,Fernando Alonso,Aston Martin Aramco Mercedes,4,57,49.032,8,No,01:26.0
+Qatar,7,31,Esteban Ocon,Alpine Renault,8,57,62.39,6,No,01:26.5
+Qatar,8,77,Valtteri Bottas,Alfa Romeo Ferrari,9,57,66.563,4,No,01:26.7
+Qatar,9,24,Guanyu Zhou,Alfa Romeo Ferrari,19,57,76.127,2,No,01:26.3
+Qatar,10,11,Sergio Perez,Red Bull Racing Honda RBPT,20,57,80.181,1,No,01:26.2
+Qatar,11,18,Lance Stroll,Aston Martin Aramco Mercedes,16,57,81.652,0,No,01:26.4
+Qatar,12,10,Pierre Gasly,Alpine Renault,7,57,82.3,0,No,01:26.3
+Qatar,13,23,Alexander Albon,Williams Mercedes,13,57,91.014,0,No,01:26.7
+Qatar,14,20,Kevin Magnussen,Haas Ferrari,18,56,+1 lap,0,No,01:27.1
+Qatar,15,22,Yuki Tsunoda,AlphaTauri Honda RBPT,11,56,+1 lap,0,No,01:27.2
+Qatar,16,27,Nico Hulkenberg,Haas Ferrari,14,56,+1 lap,0,No,01:26.5
+Qatar,17,40,Liam Lawson,AlphaTauri Honda RBPT,17,56,+1 lap,0,No,01:27.1
+United States,1,1,Max Verstappen,Red Bull Racing Honda RBPT,6,56,35:21.4,25,No,01:40.0
+United States,2,4,Lando Norris,McLaren Mercedes,2,56,10.73,18,No,01:40.0
+United States,3,55,Carlos Sainz,Ferrari,4,56,15.134,15,No,01:40.0
+United States,4,11,Sergio Perez,Red Bull Racing Honda RBPT,9,56,18.46,12,No,01:39.7
+United States,5,63,George Russell,Mercedes,5,56,24.999,10,No,01:39.4
+United States,6,10,Pierre Gasly,Alpine Renault,7,56,47.996,8,No,01:40.4
+United States,7,18,Lance Stroll,Aston Martin Aramco Mercedes,20,56,48.696,6,No,01:39.9
+United States,8,22,Yuki Tsunoda,AlphaTauri Honda RBPT,11,56,74.385,5,Yes,01:38.1
+United States,9,23,Alexander Albon,Williams Mercedes,15,56,86.714,2,No,01:41.4
+United States,10,2,Logan Sargeant,Williams Mercedes,16,56,87.998,1,No,01:41.2
+United States,11,27,Nico Hulkenberg,Haas Ferrari,18,56,89.904,0,No,01:40.9
+United States,12,77,Valtteri Bottas,Alfa Romeo Ferrari,13,56,98.601,0,No,01:42.0
+United States,13,24,Guanyu Zhou,Alfa Romeo Ferrari,12,55,+1 lap,0,No,01:41.9
+United States,14,20,Kevin Magnussen,Haas Ferrari,17,55,+1 lap,0,No,01:41.5
+United States,15,3,Daniel Ricciardo,AlphaTauri Honda RBPT,14,55,+1 lap,0,No,01:39.4
+Mexico,1,1,Max Verstappen,Red Bull Racing Honda RBPT,3,71,02:30.8,25,No,01:21.6
+Mexico,2,44,Lewis Hamilton,Mercedes,6,71,13.875,19,Yes,01:21.3
+Mexico,3,16,Charles Leclerc,Ferrari,1,71,23.124,15,No,01:22.3
+Mexico,4,55,Carlos Sainz,Ferrari,2,71,27.154,12,No,01:22.5
+Mexico,5,4,Lando Norris,McLaren Mercedes,17,71,33.266,10,No,01:21.9
+Mexico,6,63,George Russell,Mercedes,8,71,41.02,8,No,01:22.8
+Mexico,7,3,Daniel Ricciardo,AlphaTauri Honda RBPT,4,71,41.57,6,No,01:22.7
+Mexico,8,81,Oscar Piastri,McLaren Mercedes,7,71,43.104,4,No,01:22.8
+Mexico,9,23,Alexander Albon,Williams Mercedes,14,71,48.573,2,No,01:22.8
+Mexico,10,31,Esteban Ocon,Alpine Renault,15,71,62.879,1,No,01:23.0
+Mexico,11,10,Pierre Gasly,Alpine Renault,11,71,66.208,0,No,01:23.2
+Mexico,12,22,Yuki Tsunoda,AlphaTauri Honda RBPT,18,71,78.982,0,No,01:22.5
+Mexico,13,27,Nico Hulkenberg,Haas Ferrari,12,71,80.309,0,No,01:23.2
+Mexico,14,24,Guanyu Zhou,Alfa Romeo Ferrari,10,71,81.676,0,No,01:23.6
+Mexico,15,77,Valtteri Bottas,Alfa Romeo Ferrari,9,71,85.597,0,No,01:23.2
+Mexico,16,2,Logan Sargeant,Williams Mercedes,19,70,DNF,0,No,01:23.0
+Mexico,17,18,Lance Stroll,Aston Martin Aramco Mercedes,20,66,DNF,0,No,01:23.3
+Brazil,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,71,56:48.9,25,No,01:13.4
+Brazil,2,4,Lando Norris,McLaren Mercedes,6,71,8.227,19,Yes,01:12.5
+Brazil,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,4,71,34.155,15,No,01:14.4
+Brazil,4,11,Sergio Perez,Red Bull Racing Honda RBPT,9,71,34.208,12,No,01:14.1
+Brazil,5,18,Lance Stroll,Aston Martin Aramco Mercedes,3,71,40.845,10,No,01:14.0
+Brazil,6,55,Carlos Sainz,Ferrari,7,71,50.188,8,No,01:14.4
+Brazil,7,10,Pierre Gasly,Alpine Renault,15,71,56.093,6,No,01:14.5
+Brazil,8,44,Lewis Hamilton,Mercedes,5,71,62.859,4,No,01:14.7
+Brazil,9,22,Yuki Tsunoda,AlphaTauri Honda RBPT,16,71,69.88,2,No,01:14.2
+Brazil,10,31,Esteban Ocon,Alpine Renault,14,70,+1 lap,1,No,01:14.2
+Brazil,11,2,Logan Sargeant,Williams Mercedes,19,70,+1 lap,0,No,01:15.7
+Brazil,12,27,Nico Hulkenberg,Haas Ferrari,11,70,+1 lap,0,No,01:15.0
+Brazil,13,3,Daniel Ricciardo,AlphaTauri Honda RBPT,17,70,+1 lap,0,No,01:13.9
+Brazil,14,81,Oscar Piastri,McLaren Mercedes,10,69,+2 laps,0,No,01:14.3
+Las Vegas,1,1,Max Verstappen,Red Bull Racing Honda RBPT,2,50,29:08.3,25,No,01:35.6
+Las Vegas,2,16,Charles Leclerc,Ferrari,1,50,2.07,18,No,01:35.7
+Las Vegas,3,11,Sergio Perez,Red Bull Racing Honda RBPT,11,50,2.241,15,No,01:35.9
+Las Vegas,4,31,Esteban Ocon,Alpine Renault,16,50,18.665,12,No,01:36.6
+Las Vegas,5,18,Lance Stroll,Aston Martin Aramco Mercedes,19,50,20.067,10,No,01:36.6
+Las Vegas,6,55,Carlos Sainz,Ferrari,12,50,20.834,8,No,01:36.0
+Las Vegas,7,44,Lewis Hamilton,Mercedes,10,50,21.755,6,No,01:35.7
+Las Vegas,8,63,George Russell,Mercedes,3,50,23.091,4,No,01:36.1
+Las Vegas,9,14,Fernando Alonso,Aston Martin Aramco Mercedes,9,50,25.964,2,No,01:36.6
+Las Vegas,10,81,Oscar Piastri,McLaren Mercedes,18,50,29.496,2,Yes,01:35.5
+Las Vegas,11,10,Pierre Gasly,Alpine Renault,4,50,34.27,0,No,01:36.9
+Las Vegas,12,23,Alexander Albon,Williams Mercedes,5,50,43.398,0,No,01:37.4
+Las Vegas,13,20,Kevin Magnussen,Haas Ferrari,8,50,44.825,0,No,01:37.5
+Las Vegas,14,3,Daniel Ricciardo,AlphaTauri Honda RBPT,14,50,48.525,0,No,01:37.1
+Las Vegas,15,24,Guanyu Zhou,Alfa Romeo Ferrari,17,50,50.162,0,No,01:37.4
+Las Vegas,16,2,Logan Sargeant,Williams Mercedes,6,50,50.882,0,No,01:37.7
+Las Vegas,17,77,Valtteri Bottas,Alfa Romeo Ferrari,7,50,85.35,0,No,01:37.6
+Las Vegas,18,22,Yuki Tsunoda,AlphaTauri Honda RBPT,20,46,DNF,0,No,01:37.6
+Las Vegas,19,27,Nico Hulkenberg,Haas Ferrari,13,45,DNF,0,No,01:37.6
+Abu Dhabi,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,58,27:02.6,26,Yes,01:27.0
+Abu Dhabi,2,16,Charles Leclerc,Ferrari,2,58,17.993,18,No,01:28.2
+Abu Dhabi,3,63,George Russell,Mercedes,4,58,20.328,15,No,01:28.2
+Abu Dhabi,4,11,Sergio Perez,Red Bull Racing Honda RBPT,9,58,21.453,12,No,01:27.5
+Abu Dhabi,5,4,Lando Norris,McLaren Mercedes,5,58,24.284,10,No,01:28.2
+Abu Dhabi,6,81,Oscar Piastri,McLaren Mercedes,3,58,31.487,8,No,01:28.1
+Abu Dhabi,7,14,Fernando Alonso,Aston Martin Aramco Mercedes,7,58,39.512,6,No,01:28.3
+Abu Dhabi,8,22,Yuki Tsunoda,AlphaTauri Honda RBPT,6,58,43.088,4,No,01:29.3
+Abu Dhabi,9,44,Lewis Hamilton,Mercedes,11,58,44.424,2,No,01:28.4
+Abu Dhabi,10,18,Lance Stroll,Aston Martin Aramco Mercedes,13,58,55.632,1,No,01:28.1
+Abu Dhabi,11,3,Daniel Ricciardo,AlphaTauri Honda RBPT,15,58,56.229,0,No,01:28.6
+Abu Dhabi,12,31,Esteban Ocon,Alpine Renault,12,58,66.373,0,No,01:30.0
+Abu Dhabi,13,10,Pierre Gasly,Alpine Renault,10,58,70.36,0,No,01:29.0
+Abu Dhabi,14,23,Alexander Albon,Williams Mercedes,14,58,73.184,0,No,01:27.8
+Abu Dhabi,15,27,Nico Hulkenberg,Haas Ferrari,8,58,83.696,0,No,01:29.2
+Abu Dhabi,16,2,Logan Sargeant,Williams Mercedes,20,58,87.791,0,No,01:28.6
+Abu Dhabi,17,24,Guanyu Zhou,Alfa Romeo Ferrari,19,58,89.422,0,No,01:28.7
+Abu Dhabi,18,55,Carlos Sainz,Ferrari,16,57,DNF,0,No,01:29.5
+Abu Dhabi,19,77,Valtteri Bottas,Alfa Romeo Ferrari,18,57,+1 lap,0,No,01:29.9
+Abu Dhabi,20,20,Kevin Magnussen,Haas Ferrari,17,57,+1 lap,0,No,01:29.9
